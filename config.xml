@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<category itemtype="string"/>
+  <type itemtype="string">user</type>
+  <cpname itemtype="string"/>
+  <cplogo itemtype="string"/>
+  <cpauthjs itemtype="string"/>
+  <ver itemtype="string">9</ver>
+  <mgver itemtype="string">0</mgver>
+  <fullwidget itemtype="boolean">y</fullwidget>
+  <srcctl itemtype="boolean">y</srcctl>
+  <mouse itemtype="boolean">n</mouse>
+  <ticker itemtype="boolean">n</ticker>
+  <childlock itemtype="boolean">n</childlock>
+  <audiomute itemtype="boolean">n</audiomute>
+  <videomute itemtype="boolean">n</videomute>
+  <dcont itemtype="string">y</dcont>
+  <widgetname itemtype="string">ReFork Player</widgetname>
+  <description itemtype="string"/>
+  <width itemtype="number">1280</width>
+  <height itemtype="number">720</height>
+  <deleteJS>reset</deleteJS>
+  <author itemtype="group">
+    <name itemtype="string">Victor Zhuk</name>
+    <email itemtype="string">zhuk@protonmail.com</email>
+    <link itemtype="string"/>
+    <organization itemtype="string"/>
+  </author>
+</widget>
